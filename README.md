@@ -1,11 +1,11 @@
-1. Project Title / Headline
+1. Project Title / Headline:
 British Airways Review Dashboard
 An interactive, analytical dashboard providing an in-depth look at British Airways customer reviews and ratings across service categories, flight classes, aircraft types, and global routes.
 
-2. Short Description / Purpose
+2. Short Description / Purpose:
 This dashboard is designed to help users explore and analyze customer sentiment and service ratings for British Airways from March 2016 to October 2023. It enables business managers, analysts, and travelers to evaluate performance trends, identify service strengths and weaknesses, and understand how experiences vary by route, aircraft, and customer type.
 
-3. Tech Stack
+3. Tech Stack:
 The dashboard was built using the following tools and technologies:
 
 🟩 Tableau Desktop – Main visualization and dashboard platform.
@@ -13,13 +13,13 @@ The dashboard was built using the following tools and technologies:
 🧮 Calculated Fields / Level-of-Detail Expressions – For measures such as averages and dynamic filters.
 🕌 Custom Mapping – Used to visualize country-level reviews and service ratings.
 
-Data Structure:
+4.Data Structure:
 The dataset captures:
 Ratings (overall, cabin staff, ground service, seat comfort, value, food, entertainment).
 Review counts by aircraft type, service class, and country of origin.
 Filters for date range, traveler types (business, couple leisure, family leisure), seat type, and region.
 
-5. Features / Highlights
+5. Features / Highlights:
 - Business Problem
 British Airways, like many airlines, receives thousands of customer reviews each year. Managers, analysts, and consumers struggle to gian actionable insights from raw review platforms, especially for comparing service across aircraft, routes, or customer segments.
 
@@ -68,5 +68,5 @@ Highlight top-rated routes/aircraft in campaigns to attract frequent flyers and 
 Strategic Planning:
 Spot persistent low scores or lagging regions for resource allocation and targeted training.
 
-6.Screenshot
+6.Screenshot:
 Dashboard looks like this: ![Alt text](https://github.com/Tisha34/British-Airways-Tableau-Project/blob/main/Snapshot%20of%20British%20Airways%20Dashboard.png)

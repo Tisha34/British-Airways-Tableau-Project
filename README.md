@@ -69,4 +69,4 @@ Strategic Planning:
 Spot persistent low scores or lagging regions for resource allocation and targeted training.
 
 6.Screenshot
-Dashboard looks like this: ![Alt text]
+Dashboard looks like this: ![Alt text](https://github.com/Tisha34/British-Airways-Tableau-Project/blob/main/Snapshot%20of%20British%20Airways%20Dashboard.png)
